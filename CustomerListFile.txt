@@ -1,0 +1,26 @@
+@@@@
+Apartment
+xyz tower
+0
+Street
+Area xyz
+N31AU
+London
+UK
+Chandan
+Gupta
+10-10-2000
+11-11-2019
+@@@@
+Apartment
+xyz tower
+0
+Street
+Area xyz
+N31AU
+London
+UK
+Sam
+Mishra
+13-10-2000
+11-11-2013

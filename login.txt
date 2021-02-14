@@ -1,0 +1,35 @@
+Sam##1234##Bank Employee
+Sam##12##Bank Employee
+Sam##12##Manager
+A##1##Bank Employee
+A##1##Manager
+B##2##Bank Employee
+B##2##Manager
+l##l##Bank Employee
+l##l##Manager
+a##a##Bank Employee
+a##a##Manager
+k##k##Bank Employee
+k##k##Manager
+j##j##Bank Employee
+j##j##Manager
+d##d##Manager
+t##t##Administrator
+khyati##password##Manager
+sam##1234##Manager
+user##user##Administrator
+k##k##Administrator
+advisor##1##Advisor
+admin##t##Administrator
+manager##m##Manager
+employee1##1##Bank Employee
+client##c##Client
+sam##1234##Bank Employee
+m##m##Manager
+manager##manager##Manager
+manager1##manager1##Manager
+user_n##1234##Bank Employee
+user_n##1234##Bank Employee
+user_n##1234##Bank Employee
+employee200##1234##Bank Employee
+chandan##1234##Manager
